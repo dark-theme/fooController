@@ -1,1 +1,3 @@
 # fooController
+
+for rainmeter
